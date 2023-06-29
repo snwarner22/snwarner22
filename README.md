@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on photography and music
 - 📫 How to reach me: wsekani@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I am left handed
