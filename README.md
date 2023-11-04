@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Sekani : pronounced Seh-KAA-Nee
-- 🔭 I’m currently working on an Open Source project with a team at UC Santa Cruz
-- 🌱 I’m currently learning Computer Science at Norfolk State University
+- 🔭 I’m currently competing in the BE Smart Hackathon in Dallas, TX ✈️
+- 🌱 I’m purusing a Bachelor's degree in Computer Science at Norfolk State University
 - 👯 I’m looking to collaborate on photography and music
 - 📫 How to reach me: wsekani@gmail.com
 - ⚡ Fun fact: ... I am left handed
